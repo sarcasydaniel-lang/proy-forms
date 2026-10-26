@@ -1,0 +1,21 @@
+body{background-image:url(imagenes/todos2.jpg) ;}
+header{background-color: azure;
+padding: 5px;}
+footer{background-color: azure;padding: 5px;}
+nav{background-color: yellow;
+padding: 5px; text-align: left;}
+img{width: 50px;
+    height: 50px;}
+.contenido{background-color: blueviolet ;
+    padding: 5px;
+    margin: 2px;
+    display: flex;}
+section{background-color: mediumpurple;
+    padding: 5px;
+    margin: 5px;
+    width: 50%;
+    height: 200px;}
+*{text-align: center;
+margin: 10px;}
+input{background-color: deepskyblue;width: 40%;height: 20%}
+label{color: black;}
